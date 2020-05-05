@@ -1,0 +1,33 @@
+body{
+	padding: 0px ;
+	margin: 0px ;
+	background: url(blank.jpg) no-repeat center center fixed ;
+	background-size: cover;
+}
+
+.cp{
+	font-family: 'Permanent Marker', cursive;
+	font-weight: bold ;
+	color: #fff ;
+}
+
+.head{
+	color :grey ;
+}
+
+.do_it{
+	margin-top: 140px ;
+}
+
+.rowHeight{
+	margin-top: 50px ;	
+}
+
+.footer{
+	background-color: black ;
+	color :white;
+	width: 100%; 
+	position:  fixed;
+	bottom: 0px ;
+
+}
